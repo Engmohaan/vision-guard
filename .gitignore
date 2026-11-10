@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+node_modules/
+dist/
+backend/models_data/*.pt
+backend/models_data/embeddings/*.npy
+backend/models_data/train_images/
+backend/models_data/*.db
+.env
